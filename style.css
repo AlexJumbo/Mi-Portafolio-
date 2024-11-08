@@ -1,0 +1,40 @@
+body{
+    color: rgb(20, 20, 17);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(218, 204, 188);
+}
+
+footer{
+    font-size: medium;
+    color: black;
+    background-color: azure;
+}
+
+p{
+    color: #0f0f0f;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.destacado{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.container{
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#lista{
+    color: rgb(2, 1, 43);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: left;
+    
+}
+
+section{
+    border-radius: 50%;
+    margin: 0 auto;
+}
