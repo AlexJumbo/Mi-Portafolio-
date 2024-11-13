@@ -34,7 +34,7 @@ p{
     
 }
 
-section{
-    border-radius: 50%;
+.section{
+    border-radius: 10px;
     margin: 0 auto;
 }
